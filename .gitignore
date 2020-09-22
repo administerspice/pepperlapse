@@ -1,0 +1,6 @@
+# ignore contents of folders with these prefixes
+photos*/*
+videos*/*
+
+!photos*/.gitkeep
+!videos*/.gitkeep
